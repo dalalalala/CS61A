@@ -152,7 +152,6 @@ def rate_all(user, restaurants, feature_fns):
     return rate_dict
     # END Question 9
 
-
 def search(query, restaurants):
     """Return each restaurant in restaurants that has query as a category.
 
